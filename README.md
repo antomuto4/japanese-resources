@@ -2,6 +2,7 @@
 
 ### Useful Links / 便利なサイト
 - [Jisho](https://jisho.org/) is a powerful Japanese-English dictionary. It lets you find words, kanji, example sentences and more quickly and easily.
+- [Netflix + Audio Descriptions: The Ultimate Immersion](https://youtu.be/sttawmB2eAQ)
 
 ### 場面別練習 / Scene Practice
 - [初級 / Beginner](https://github.com/antomuto4/japanese-resources/tree/main/src/wasabi-jpn/scene-practice/beginner)
