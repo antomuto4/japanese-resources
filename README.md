@@ -18,4 +18,5 @@
 - [StudyKanji](http://www.studykanji.net/kanjiquiz/chrome)
 
 ### Resources / リソース
+- [Genki](https://archive.org/download/Genki)
 - [Wasabi](https://www.wasabi-jpn.com/curriculum/list-of-worksheets/#bamen-beg)
