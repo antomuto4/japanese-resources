@@ -1,6 +1,6 @@
 # japanese-resources
 
-### Useful Links / 便利なサイト
+###  便利なサイト / Useful Links
 - [Jisho](https://jisho.org/) is a powerful Japanese-English dictionary. It lets you find words, kanji, example sentences and more quickly and easily.
 - [Netflix + Audio Descriptions: The Ultimate Immersion](https://youtu.be/sttawmB2eAQ)
 
