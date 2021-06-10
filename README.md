@@ -17,6 +17,7 @@
 - [上級 / Advanced](https://github.com/antomuto4/japanese-resources/tree/main/src/wasabi-jpn/sentence-practice/advanced)
 ### クイズ / Quiz
 - [StudyKanji](http://www.studykanji.net/kanjiquiz/chrome)
+- [KanjiQuizzer](https://kanjiquizzer.com/)
 
 ### リソース / Resources 
 - [Genki](https://archive.org/download/Genki)
